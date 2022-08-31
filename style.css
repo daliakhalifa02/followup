@@ -1,0 +1,104 @@
+.div{
+    max-width: 700px;
+    margin: auto;
+    background-color: #ECECEC;
+    height: 1250px;
+}
+
+header{
+    color: #821432;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding: 15px;
+    background-color: white;
+}
+
+p{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    color: #941739;
+    padding-left: 40px;
+    margin-bottom: 20px;
+}
+
+.button{
+    padding-left: 5px;
+    color: #a71a40;
+    font-family: helvetica;
+    font-size: 14px;
+    font-weight: 550;
+}
+
+input[type="radio"]{
+    margin-left: 40px;
+
+}
+
+.right{
+    color: #a71a40;
+    font-family: helvetica;
+    font-size: 14px;
+    font-weight: 550;
+    text-align: left;
+    position: absolute;
+}
+
+html{
+    background-color: darkgrey;
+}
+
+.name{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    color: #941739;
+    padding-left: 372px;
+    margin-top: -125px;
+    display: inline-block;
+}
+
+.nav li{
+    display: inline-block;
+}
+
+.nav{
+    padding:0;
+    margin:0;  
+}
+
+.d1{
+    display: inline-block;
+}
+
+.box{
+    width:100%;
+    max-width:620px;
+    margin-top:10px;
+    margin-left:40px;
+    height: 150px;
+    font-family: Arial;
+    padding-top: 10px;
+    padding-left: 10px;
+
+}
+
+.comment{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    color: #941739;
+    margin-left: 42px;
+}
+
+button{
+    background-color: #565656;
+    border-radius: 4px;  
+    color: #fff;
+    border: 50px;
+    padding: 10px 45px;
+    margin-left: 285px;
+    margin-top: 40px;
+    font-family: arial;
+}
